@@ -76,7 +76,7 @@ The project successfully:
 
 The CLV distribution is highly right-skewed. Most customers generate relatively low lifetime value, while a small group contributes exceptionally high future revenue.
 
-![CLV Distribution](images/clv_distribution.png)
+![clv_distribution](images/clv_distribution.png)
 
 ---
 
@@ -84,7 +84,7 @@ The CLV distribution is highly right-skewed. Most customers generate relatively 
 
 The BG/NBD model estimates the probability that each customer is still active. Most customers show a high probability of remaining active, while a smaller group is identified as having a higher risk of churn.
 
-![Probability Alive](images/probability_alive.png)
+![probability alive](images/probability_alive.png)
 
 ---
 
