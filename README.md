@@ -117,4 +117,4 @@ Possible extensions of this project include:
 
 Data Analyst | Python | SQL | Power BI | Data Science
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *https://www.linkedin.com/in/leidy-viviana-jaramillo-parra-1987a0153/*
